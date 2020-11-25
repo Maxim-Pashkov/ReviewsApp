@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Сбор отзывов о наших сотрудниках</string>
+    <string name="title_fill">Оставьте свой отзыв!</string>
+    <string name="title_confirm">Подтвердите данные</string>
+    <string name="input_name">Введите имя</string>
+    <string name="input_name_incognito">Остаться инкогнито</string>
+    <string name="input_employee">Выберите сотрудника</string>
+    <string-array name="list_employees">
+        <item>Смирнова Екатерина</item>
+        <item>Филиппова Анастасия</item>
+        <item>Алхазов Денис</item>
+    </string-array>
+    <string name="input_rating">Выберите оценку</string>
+    <string name="input_review">Подробнее</string>
+    <string name="input_submit">Отправить</string>
+    <string name="input_confirm">Подтвердить</string>
+</resources>
